@@ -1,0 +1,444 @@
+[
+  {
+    "date": "2026/9/17 20:05:24",
+    "total": 30,
+    "correct": 29,
+    "accuracy": "96.7",
+    "totalTime": "818.67",
+    "avgTime": "27.29",
+    "fastest": "2.78",
+    "details": [
+      {
+        "question": "13×6",
+        "userAnswer": "78",
+        "correctAnswer": 78,
+        "correct": true,
+        "time": "3.72"
+      },
+      {
+        "question": "14×3",
+        "userAnswer": "42",
+        "correctAnswer": 42,
+        "correct": true,
+        "time": "17.94"
+      },
+      {
+        "question": "1/3",
+        "userAnswer": "0.3333",
+        "correctAnswer": 0.3333,
+        "correct": true,
+        "time": "5.08"
+      },
+      {
+        "question": "5^4",
+        "userAnswer": "625",
+        "correctAnswer": 625,
+        "correct": true,
+        "time": "25.39"
+      },
+      {
+        "question": "14×4",
+        "userAnswer": "56",
+        "correctAnswer": 56,
+        "correct": true,
+        "time": "41.99"
+      },
+      {
+        "question": "17×2",
+        "userAnswer": "34",
+        "correctAnswer": 34,
+        "correct": true,
+        "time": "2.93"
+      },
+      {
+        "question": "19×4",
+        "userAnswer": "76",
+        "correctAnswer": 76,
+        "correct": true,
+        "time": "3.17"
+      },
+      {
+        "question": "12×9",
+        "userAnswer": "38",
+        "correctAnswer": 108,
+        "correct": false,
+        "time": "3.17"
+      },
+      {
+        "question": "11×17",
+        "userAnswer": "187",
+        "correctAnswer": 187,
+        "correct": true,
+        "time": "9.65"
+      },
+      {
+        "question": "3^5",
+        "userAnswer": "243",
+        "correctAnswer": 243,
+        "correct": true,
+        "time": "42.67"
+      },
+      {
+        "question": "12×8",
+        "userAnswer": "96",
+        "correctAnswer": 96,
+        "correct": true,
+        "time": "11.43"
+      },
+      {
+        "question": "13×9",
+        "userAnswer": "117",
+        "correctAnswer": 117,
+        "correct": true,
+        "time": "4.18"
+      },
+      {
+        "question": "13×8",
+        "userAnswer": "104",
+        "correctAnswer": 104,
+        "correct": true,
+        "time": "5.29"
+      },
+      {
+        "question": "5^1",
+        "userAnswer": "5",
+        "correctAnswer": 5,
+        "correct": true,
+        "time": "3.05"
+      },
+      {
+        "question": "15×5",
+        "userAnswer": "75",
+        "correctAnswer": 75,
+        "correct": true,
+        "time": "2.97"
+      },
+      {
+        "question": "5^2",
+        "userAnswer": "25",
+        "correctAnswer": 25,
+        "correct": true,
+        "time": "12.38"
+      },
+      {
+        "question": "16×3",
+        "userAnswer": "48",
+        "correctAnswer": 48,
+        "correct": true,
+        "time": "193.99"
+      },
+      {
+        "question": "1/4",
+        "userAnswer": "0.25",
+        "correctAnswer": 0.25,
+        "correct": true,
+        "time": "8.37"
+      },
+      {
+        "question": "19×2",
+        "userAnswer": "38",
+        "correctAnswer": 38,
+        "correct": true,
+        "time": "287.38"
+      },
+      {
+        "question": "2^7",
+        "userAnswer": "128",
+        "correctAnswer": 128,
+        "correct": true,
+        "time": "60.38"
+      },
+      {
+        "question": "14×5",
+        "userAnswer": "70",
+        "correctAnswer": 70,
+        "correct": true,
+        "time": "3.11"
+      },
+      {
+        "question": "18×8",
+        "userAnswer": "144",
+        "correctAnswer": 144,
+        "correct": true,
+        "time": "4.97"
+      },
+      {
+        "question": "13×2",
+        "userAnswer": "26",
+        "correctAnswer": 26,
+        "correct": true,
+        "time": "3.62"
+      },
+      {
+        "question": "7/8",
+        "userAnswer": "0.875",
+        "correctAnswer": 0.875,
+        "correct": true,
+        "time": "15.71"
+      },
+      {
+        "question": "4^1",
+        "userAnswer": "4",
+        "correctAnswer": 4,
+        "correct": true,
+        "time": "2.78"
+      },
+      {
+        "question": "17×8",
+        "userAnswer": "136",
+        "correctAnswer": 136,
+        "correct": true,
+        "time": "5.72"
+      },
+      {
+        "question": "19×5",
+        "userAnswer": "95",
+        "correctAnswer": 95,
+        "correct": true,
+        "time": "6.57"
+      },
+      {
+        "question": "3^3",
+        "userAnswer": "27",
+        "correctAnswer": 27,
+        "correct": true,
+        "time": "21.95"
+      },
+      {
+        "question": "18×3",
+        "userAnswer": "54",
+        "correctAnswer": 54,
+        "correct": true,
+        "time": "3.66"
+      },
+      {
+        "question": "17×9",
+        "userAnswer": "153",
+        "correctAnswer": 153,
+        "correct": true,
+        "time": "5.46"
+      }
+    ]
+  },
+  {
+    "date": "2026/9/15 21:28:34",
+    "total": 30,
+    "correct": 23,
+    "accuracy": "76.7",
+    "totalTime": "598.39",
+    "avgTime": "19.95",
+    "fastest": "2.71",
+    "details": [
+      {
+        "question": "6^4",
+        "userAnswer": "1296",
+        "correctAnswer": 1296,
+        "correct": true,
+        "time": "57.76"
+      },
+      {
+        "question": "2^7",
+        "userAnswer": "128",
+        "correctAnswer": 128,
+        "correct": true,
+        "time": "40.15"
+      },
+      {
+        "question": "6^2",
+        "userAnswer": "36",
+        "correctAnswer": 36,
+        "correct": true,
+        "time": "6.25"
+      },
+      {
+        "question": "2^6",
+        "userAnswer": "0",
+        "correctAnswer": 64,
+        "correct": false,
+        "time": "136.13"
+      },
+      {
+        "question": "18×5",
+        "userAnswer": "90",
+        "correctAnswer": 90,
+        "correct": true,
+        "time": "3.89"
+      },
+      {
+        "question": "14×4",
+        "userAnswer": "64",
+        "correctAnswer": 56,
+        "correct": false,
+        "time": "3.89"
+      },
+      {
+        "question": "6^3",
+        "userAnswer": "216",
+        "correctAnswer": 216,
+        "correct": true,
+        "time": "6.77"
+      },
+      {
+        "question": "17×3",
+        "userAnswer": "51",
+        "correctAnswer": 51,
+        "correct": true,
+        "time": "21.90"
+      },
+      {
+        "question": "2^8",
+        "userAnswer": "514",
+        "correctAnswer": 256,
+        "correct": false,
+        "time": "5.54"
+      },
+      {
+        "question": "3/4",
+        "userAnswer": "0.75",
+        "correctAnswer": 0.75,
+        "correct": true,
+        "time": "5.62"
+      },
+      {
+        "question": "12×5",
+        "userAnswer": "60",
+        "correctAnswer": 60,
+        "correct": true,
+        "time": "3.49"
+      },
+      {
+        "question": "15×3",
+        "userAnswer": "45",
+        "correctAnswer": 45,
+        "correct": true,
+        "time": "2.84"
+      },
+      {
+        "question": "5/8",
+        "userAnswer": "0.625",
+        "correctAnswer": 0.625,
+        "correct": true,
+        "time": "25.63"
+      },
+      {
+        "question": "7/8",
+        "userAnswer": "0.875",
+        "correctAnswer": 0.875,
+        "correct": true,
+        "time": "16.26"
+      },
+      {
+        "question": "125×8",
+        "userAnswer": "1000",
+        "correctAnswer": 1000,
+        "correct": true,
+        "time": "3.37"
+      },
+      {
+        "question": "19×4",
+        "userAnswer": "76",
+        "correctAnswer": 76,
+        "correct": true,
+        "time": "3.76"
+      },
+      {
+        "question": "16×2",
+        "userAnswer": "32",
+        "correctAnswer": 32,
+        "correct": true,
+        "time": "2.71"
+      },
+      {
+        "question": "6^4",
+        "userAnswer": "8",
+        "correctAnswer": 1296,
+        "correct": false,
+        "time": "12.12"
+      },
+      {
+        "question": "18×7",
+        "userAnswer": "126",
+        "correctAnswer": 126,
+        "correct": true,
+        "time": "28.52"
+      },
+      {
+        "question": "14×7",
+        "userAnswer": "98",
+        "correctAnswer": 98,
+        "correct": true,
+        "time": "3.45"
+      },
+      {
+        "question": "16×7",
+        "userAnswer": "112",
+        "correctAnswer": 112,
+        "correct": true,
+        "time": "3.06"
+      },
+      {
+        "question": "1/3",
+        "userAnswer": "0.333",
+        "correctAnswer": 0.3333,
+        "correct": false,
+        "time": "4.95"
+      },
+      {
+        "question": "3^3",
+        "userAnswer": "27",
+        "correctAnswer": 27,
+        "correct": true,
+        "time": "6.05"
+      },
+      {
+        "question": "12×9",
+        "userAnswer": "108",
+        "correctAnswer": 108,
+        "correct": true,
+        "time": "3.78"
+      },
+      {
+        "question": "3^5",
+        "userAnswer": "243",
+        "correctAnswer": 243,
+        "correct": true,
+        "time": "41.13"
+      },
+      {
+        "question": "14×9",
+        "userAnswer": "126",
+        "correctAnswer": 126,
+        "correct": true,
+        "time": "4.21"
+      },
+      {
+        "question": "18×8",
+        "userAnswer": "144",
+        "correctAnswer": 144,
+        "correct": true,
+        "time": "113.07"
+      },
+      {
+        "question": "4^2",
+        "userAnswer": "16",
+        "correctAnswer": 16,
+        "correct": true,
+        "time": "4.29"
+      },
+      {
+        "question": "17×19",
+        "userAnswer": "263",
+        "correctAnswer": 323,
+        "correct": false,
+        "time": "20.18"
+      },
+      {
+        "question": "13×19",
+        "userAnswer": "227",
+        "correctAnswer": 247,
+        "correct": false,
+        "time": "7.62"
+      }
+    ]
+  }
+]
